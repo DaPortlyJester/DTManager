@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dwarf_detail"
+    style="?android:attr/textAppearanceLarge"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:textIsSelectable="true"
+    tools:context=".DwarfDetailFragment" >
+
+    <ImageView 
+        android:id="@+id/d_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/d_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textIsSelectable="true" 
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/d_sex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:id="@+id/d_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:id="@+id/d_strength"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:id="@+id/d_agility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textIsSelectable="true" />
+
+    <TextView
+        android:id="@+id/d_toughness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:textIsSelectable="true" />
+
+</LinearLayout>

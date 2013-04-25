@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DTManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="conn_to_DT_btn_txt">Connect To Dwarf Therapist</string>
+    <string name="view_dwarf_logs_btn_txt">View Dwarf Logs</string>
+    <string name="export_dwarf_logs_btn_txt">Export Dwarf Logs to a File</string>
+    <string name="view_world_legends_btn_txt">View World Legends</string>
+    <string name="fine_print_text">Author: DaPortlyJester</string>
+    <string name="dwarf_fortress_title_bar">Dwarf Fortress Title Bar</string>
+    <string name="dwarf_fortress_dwarf_management_logo">Dwarf Fortress Dwarf Management Logo</string>
+    <string name="img_view_tag">img_view</string>
+    <string name="button_vw_tag">button_view</string>
+    <string name="title_dwarf_list">Dwarves</string>
+    <string name="title_dwarf_detail">Dwarf Detail</string>
+
+</resources>
